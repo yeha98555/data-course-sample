@@ -1,1 +1,5 @@
-.ipynb_checkpoints
+.gitignore
+.ipynb_checkpoints/
+S0_入學測試/
+All_Beauty.csv
+meta_All_Beauty.json.gz
